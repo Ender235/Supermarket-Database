@@ -5,9 +5,6 @@ To run it you need to install the following libraries:
 2. functools (pip install functools)
 3. pandas (pip install pandas)
 
-So far, I have to fix:
-- Key error with dictionaries
-- Image downloading and apearing
-- maybe search, depends how im feeling about it
+To run the code you must go to the file called "compiled_code.py" and then execute it
 
 If anything dosent work feel free to message me.
